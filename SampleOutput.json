@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "November 9, 2022 – PBS NewsHour full episode - PBS NewsHour",
+            "description": "Wednesday on the NewsHour, the country appears headed for a divided government as Democrats do better than expected in the midterms. We look at winners and losers and how much influence each party wields in the next Congress. Plus, from the red wave that fail…",
+            "url": "https://www.pbs.org/newshour/show/november-9-2022-pbs-newshour-full-episode",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/11/fullepisode-7-1024x689.jpg",
+            "publishedAt": "2022-11-10T00:53:31Z",
+            "content": "Wednesday on the NewsHour, the country appears headed for a divided government as Democrats do better than expected in the midterms. We look at winners and losers and how much influence each party wi… [+177 chars]"
+        }
+    ]
+}
